@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/chengzai/ros_ws_104/src/ur5_robot/ur5_dh-ag95gripper_moveit_config/gazebo_ur5.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/ur5.srdf
+  CONFIG:
+    author_name: chengzai
+    author_email: 911308176@qq.com
+    generated_timestamp: 1729932715
