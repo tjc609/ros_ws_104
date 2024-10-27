@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/chengzai/ros_ws_104/src/ur3e-dh_ag95_gripper_moveit_config/ur3e-dh_ag95_gripper_moveit_config.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/ur3e_robot.srdf
+  CONFIG:
+    author_name: chengzai
+    author_email: 911308176@qq.com
+    generated_timestamp: 1730000426
